@@ -1,6 +1,8 @@
 AngelhackNYCNov2013
 ===================
 
+![alt tag](https://raw.github.com/gabebear/AngelhackNYCNov2013/master/pass.PNG)
+
 We help people find they stuff they want.
 
 Customers search our site and add passes for specific items or categories of items. We also encourage other sites to embed links to our passbook passes. Passes will activate when what customers want is close-by.
